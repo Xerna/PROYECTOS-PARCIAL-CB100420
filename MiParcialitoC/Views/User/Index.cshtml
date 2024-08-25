@@ -1,0 +1,22 @@
+﻿@model MiParcialitoC.Models.UserModel
+@using (Html.BeginForm("Welcome", "User", FormMethod.Post))
+{
+    <div class="container bg-white h-50 mx-auto mt-5" style="width:40%;">
+        <div class="row mb-1">
+            <img src="~/logopng.png" class="img-fluid mx-auto" style="width:35%">
+        </div>
+        <div class="row mb-2">
+            <div class="form px-5 pb-5 pt-3">
+                <div class="mb-3">
+                    @Html.LabelFor(m => m.Email, new { @class = "form-label" })
+                    @Html.TextBoxFor(m => m.Email, new { @class = "form-control", placeholder = "Email" })
+                </div>
+                <div class="mb-3">
+                    @Html.LabelFor(m => m.Password, new { @class = "form-label" })
+                    @Html.PasswordFor(m => m.Password, new { @class = "form-control", placeholder = "Password" })
+                </div>
+                <button type="submit" class="btn w-100 mt-5" style="background-color:darkorange;color:white">Submit</button>
+            </div>
+        </div>
+    </div>
+}

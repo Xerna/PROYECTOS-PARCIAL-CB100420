@@ -1,0 +1,91 @@
+C:\Users\linda\OneDrive\Documents\PruebaDracula\MiParcialitoC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\linda\OneDrive\Documents\PruebaDracula\MiParcialitoC\bin\Debug\net6.0\appsettings.json
+C:\Users\linda\OneDrive\Documents\PruebaDracula\MiParcialitoC\bin\Debug\net6.0\MiParcialitoC.staticwebassets.runtime.json
+C:\Users\linda\OneDrive\Documents\PruebaDracula\MiParcialitoC\bin\Debug\net6.0\MiParcialitoC.exe
+C:\Users\linda\OneDrive\Documents\PruebaDracula\MiParcialitoC\bin\Debug\net6.0\MiParcialitoC.deps.json
+C:\Users\linda\OneDrive\Documents\PruebaDracula\MiParcialitoC\bin\Debug\net6.0\MiParcialitoC.runtimeconfig.json
+C:\Users\linda\OneDrive\Documents\PruebaDracula\MiParcialitoC\bin\Debug\net6.0\MiParcialitoC.dll
+C:\Users\linda\OneDrive\Documents\PruebaDracula\MiParcialitoC\bin\Debug\net6.0\MiParcialitoC.pdb
+C:\Users\linda\OneDrive\Documents\PruebaDracula\MiParcialitoC\obj\Debug\net6.0\MiParcialitoC.csproj.AssemblyReference.cache
+C:\Users\linda\OneDrive\Documents\PruebaDracula\MiParcialitoC\obj\Debug\net6.0\MiParcialitoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linda\OneDrive\Documents\PruebaDracula\MiParcialitoC\obj\Debug\net6.0\MiParcialitoC.AssemblyInfoInputs.cache
+C:\Users\linda\OneDrive\Documents\PruebaDracula\MiParcialitoC\obj\Debug\net6.0\MiParcialitoC.AssemblyInfo.cs
+C:\Users\linda\OneDrive\Documents\PruebaDracula\MiParcialitoC\obj\Debug\net6.0\MiParcialitoC.csproj.CoreCompileInputs.cache
+C:\Users\linda\OneDrive\Documents\PruebaDracula\MiParcialitoC\obj\Debug\net6.0\MiParcialitoC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\linda\OneDrive\Documents\PruebaDracula\MiParcialitoC\obj\Debug\net6.0\MiParcialitoC.RazorAssemblyInfo.cache
+C:\Users\linda\OneDrive\Documents\PruebaDracula\MiParcialitoC\obj\Debug\net6.0\MiParcialitoC.RazorAssemblyInfo.cs
+C:\Users\linda\OneDrive\Documents\PruebaDracula\MiParcialitoC\obj\Debug\net6.0\staticwebassets\msbuild.MiParcialitoC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\linda\OneDrive\Documents\PruebaDracula\MiParcialitoC\obj\Debug\net6.0\staticwebassets\msbuild.build.MiParcialitoC.props
+C:\Users\linda\OneDrive\Documents\PruebaDracula\MiParcialitoC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MiParcialitoC.props
+C:\Users\linda\OneDrive\Documents\PruebaDracula\MiParcialitoC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MiParcialitoC.props
+C:\Users\linda\OneDrive\Documents\PruebaDracula\MiParcialitoC\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\linda\OneDrive\Documents\PruebaDracula\MiParcialitoC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\linda\OneDrive\Documents\PruebaDracula\MiParcialitoC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\linda\OneDrive\Documents\PruebaDracula\MiParcialitoC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\linda\OneDrive\Documents\PruebaDracula\MiParcialitoC\obj\Debug\net6.0\scopedcss\bundle\MiParcialitoC.styles.css
+C:\Users\linda\OneDrive\Documents\PruebaDracula\MiParcialitoC\obj\Debug\net6.0\scopedcss\projectbundle\MiParcialitoC.bundle.scp.css
+C:\Users\linda\OneDrive\Documents\PruebaDracula\MiParcialitoC\obj\Debug\net6.0\MiParcialitoC.dll
+C:\Users\linda\OneDrive\Documents\PruebaDracula\MiParcialitoC\obj\Debug\net6.0\refint\MiParcialitoC.dll
+C:\Users\linda\OneDrive\Documents\PruebaDracula\MiParcialitoC\obj\Debug\net6.0\MiParcialitoC.pdb
+C:\Users\linda\OneDrive\Documents\PruebaDracula\MiParcialitoC\obj\Debug\net6.0\MiParcialitoC.genruntimeconfig.cache
+C:\Users\linda\OneDrive\Documents\PruebaDracula\MiParcialitoC\obj\Debug\net6.0\ref\MiParcialitoC.dll
+C:\Users\Ricardo\Downloads\Nueva carpeta\MiParcialitoC\MiParcialitoC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ricardo\Downloads\Nueva carpeta\MiParcialitoC\MiParcialitoC\bin\Debug\net6.0\appsettings.json
+C:\Users\Ricardo\Downloads\Nueva carpeta\MiParcialitoC\MiParcialitoC\bin\Debug\net6.0\MiParcialitoC.staticwebassets.runtime.json
+C:\Users\Ricardo\Downloads\Nueva carpeta\MiParcialitoC\MiParcialitoC\bin\Debug\net6.0\MiParcialitoC.exe
+C:\Users\Ricardo\Downloads\Nueva carpeta\MiParcialitoC\MiParcialitoC\bin\Debug\net6.0\MiParcialitoC.deps.json
+C:\Users\Ricardo\Downloads\Nueva carpeta\MiParcialitoC\MiParcialitoC\bin\Debug\net6.0\MiParcialitoC.runtimeconfig.json
+C:\Users\Ricardo\Downloads\Nueva carpeta\MiParcialitoC\MiParcialitoC\bin\Debug\net6.0\MiParcialitoC.dll
+C:\Users\Ricardo\Downloads\Nueva carpeta\MiParcialitoC\MiParcialitoC\bin\Debug\net6.0\MiParcialitoC.pdb
+C:\Users\Ricardo\Downloads\Nueva carpeta\MiParcialitoC\MiParcialitoC\obj\Debug\net6.0\MiParcialitoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ricardo\Downloads\Nueva carpeta\MiParcialitoC\MiParcialitoC\obj\Debug\net6.0\MiParcialitoC.AssemblyInfoInputs.cache
+C:\Users\Ricardo\Downloads\Nueva carpeta\MiParcialitoC\MiParcialitoC\obj\Debug\net6.0\MiParcialitoC.AssemblyInfo.cs
+C:\Users\Ricardo\Downloads\Nueva carpeta\MiParcialitoC\MiParcialitoC\obj\Debug\net6.0\MiParcialitoC.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Downloads\Nueva carpeta\MiParcialitoC\MiParcialitoC\obj\Debug\net6.0\MiParcialitoC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ricardo\Downloads\Nueva carpeta\MiParcialitoC\MiParcialitoC\obj\Debug\net6.0\MiParcialitoC.RazorAssemblyInfo.cache
+C:\Users\Ricardo\Downloads\Nueva carpeta\MiParcialitoC\MiParcialitoC\obj\Debug\net6.0\MiParcialitoC.RazorAssemblyInfo.cs
+C:\Users\Ricardo\Downloads\Nueva carpeta\MiParcialitoC\MiParcialitoC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ricardo\Downloads\Nueva carpeta\MiParcialitoC\MiParcialitoC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ricardo\Downloads\Nueva carpeta\MiParcialitoC\MiParcialitoC\obj\Debug\net6.0\staticwebassets\msbuild.MiParcialitoC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ricardo\Downloads\Nueva carpeta\MiParcialitoC\MiParcialitoC\obj\Debug\net6.0\staticwebassets\msbuild.build.MiParcialitoC.props
+C:\Users\Ricardo\Downloads\Nueva carpeta\MiParcialitoC\MiParcialitoC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MiParcialitoC.props
+C:\Users\Ricardo\Downloads\Nueva carpeta\MiParcialitoC\MiParcialitoC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MiParcialitoC.props
+C:\Users\Ricardo\Downloads\Nueva carpeta\MiParcialitoC\MiParcialitoC\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Ricardo\Downloads\Nueva carpeta\MiParcialitoC\MiParcialitoC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Ricardo\Downloads\Nueva carpeta\MiParcialitoC\MiParcialitoC\obj\Debug\net6.0\scopedcss\bundle\MiParcialitoC.styles.css
+C:\Users\Ricardo\Downloads\Nueva carpeta\MiParcialitoC\MiParcialitoC\obj\Debug\net6.0\scopedcss\projectbundle\MiParcialitoC.bundle.scp.css
+C:\Users\Ricardo\Downloads\Nueva carpeta\MiParcialitoC\MiParcialitoC\obj\Debug\net6.0\MiParcialitoC.dll
+C:\Users\Ricardo\Downloads\Nueva carpeta\MiParcialitoC\MiParcialitoC\obj\Debug\net6.0\refint\MiParcialitoC.dll
+C:\Users\Ricardo\Downloads\Nueva carpeta\MiParcialitoC\MiParcialitoC\obj\Debug\net6.0\MiParcialitoC.pdb
+C:\Users\Ricardo\Downloads\Nueva carpeta\MiParcialitoC\MiParcialitoC\obj\Debug\net6.0\MiParcialitoC.genruntimeconfig.cache
+C:\Users\Ricardo\Downloads\Nueva carpeta\MiParcialitoC\MiParcialitoC\obj\Debug\net6.0\ref\MiParcialitoC.dll
+C:\Users\Ricardo\Desktop\PROYECTOS PARCIAL\MiParcialitoC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ricardo\Desktop\PROYECTOS PARCIAL\MiParcialitoC\bin\Debug\net6.0\appsettings.json
+C:\Users\Ricardo\Desktop\PROYECTOS PARCIAL\MiParcialitoC\bin\Debug\net6.0\MiParcialitoC.staticwebassets.runtime.json
+C:\Users\Ricardo\Desktop\PROYECTOS PARCIAL\MiParcialitoC\bin\Debug\net6.0\MiParcialitoC.exe
+C:\Users\Ricardo\Desktop\PROYECTOS PARCIAL\MiParcialitoC\bin\Debug\net6.0\MiParcialitoC.deps.json
+C:\Users\Ricardo\Desktop\PROYECTOS PARCIAL\MiParcialitoC\bin\Debug\net6.0\MiParcialitoC.runtimeconfig.json
+C:\Users\Ricardo\Desktop\PROYECTOS PARCIAL\MiParcialitoC\bin\Debug\net6.0\MiParcialitoC.dll
+C:\Users\Ricardo\Desktop\PROYECTOS PARCIAL\MiParcialitoC\bin\Debug\net6.0\MiParcialitoC.pdb
+C:\Users\Ricardo\Desktop\PROYECTOS PARCIAL\MiParcialitoC\obj\Debug\net6.0\MiParcialitoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ricardo\Desktop\PROYECTOS PARCIAL\MiParcialitoC\obj\Debug\net6.0\MiParcialitoC.AssemblyInfoInputs.cache
+C:\Users\Ricardo\Desktop\PROYECTOS PARCIAL\MiParcialitoC\obj\Debug\net6.0\MiParcialitoC.AssemblyInfo.cs
+C:\Users\Ricardo\Desktop\PROYECTOS PARCIAL\MiParcialitoC\obj\Debug\net6.0\MiParcialitoC.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Desktop\PROYECTOS PARCIAL\MiParcialitoC\obj\Debug\net6.0\MiParcialitoC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ricardo\Desktop\PROYECTOS PARCIAL\MiParcialitoC\obj\Debug\net6.0\MiParcialitoC.RazorAssemblyInfo.cache
+C:\Users\Ricardo\Desktop\PROYECTOS PARCIAL\MiParcialitoC\obj\Debug\net6.0\MiParcialitoC.RazorAssemblyInfo.cs
+C:\Users\Ricardo\Desktop\PROYECTOS PARCIAL\MiParcialitoC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ricardo\Desktop\PROYECTOS PARCIAL\MiParcialitoC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ricardo\Desktop\PROYECTOS PARCIAL\MiParcialitoC\obj\Debug\net6.0\staticwebassets\msbuild.MiParcialitoC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ricardo\Desktop\PROYECTOS PARCIAL\MiParcialitoC\obj\Debug\net6.0\staticwebassets\msbuild.build.MiParcialitoC.props
+C:\Users\Ricardo\Desktop\PROYECTOS PARCIAL\MiParcialitoC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MiParcialitoC.props
+C:\Users\Ricardo\Desktop\PROYECTOS PARCIAL\MiParcialitoC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MiParcialitoC.props
+C:\Users\Ricardo\Desktop\PROYECTOS PARCIAL\MiParcialitoC\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Ricardo\Desktop\PROYECTOS PARCIAL\MiParcialitoC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Ricardo\Desktop\PROYECTOS PARCIAL\MiParcialitoC\obj\Debug\net6.0\scopedcss\bundle\MiParcialitoC.styles.css
+C:\Users\Ricardo\Desktop\PROYECTOS PARCIAL\MiParcialitoC\obj\Debug\net6.0\scopedcss\projectbundle\MiParcialitoC.bundle.scp.css
+C:\Users\Ricardo\Desktop\PROYECTOS PARCIAL\MiParcialitoC\obj\Debug\net6.0\MiParcialitoC.dll
+C:\Users\Ricardo\Desktop\PROYECTOS PARCIAL\MiParcialitoC\obj\Debug\net6.0\refint\MiParcialitoC.dll
+C:\Users\Ricardo\Desktop\PROYECTOS PARCIAL\MiParcialitoC\obj\Debug\net6.0\MiParcialitoC.pdb
+C:\Users\Ricardo\Desktop\PROYECTOS PARCIAL\MiParcialitoC\obj\Debug\net6.0\MiParcialitoC.genruntimeconfig.cache
+C:\Users\Ricardo\Desktop\PROYECTOS PARCIAL\MiParcialitoC\obj\Debug\net6.0\ref\MiParcialitoC.dll
